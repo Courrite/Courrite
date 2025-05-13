@@ -3,9 +3,9 @@
 I'm a passionate programmer who thrives on creating immersive experiences and elegant solutions. Each project is a stepping stone toward my ultimate goal of building worlds through code.
 
 ## Current Projects
-Luau Kernel Simulation (Roblox) - A 
-ATOMIC (Roblox) - An ambitious open world RPG inspired by Deepwoken, featuring precise hitboxes and fluid animations
-DataStoreWrapper (Roblox) - A robust solution for seamless data management with built-in error handling, session-locking and caching
+- Linux Kernel Simulation (Luau) - A simulation of the Linux kernel components implemented using Luau. 
+- ATOMIC (Luau) - An ambitious open world RPG inspired by Deepwoken, featuring precise hitboxes and fluid animations
+- DataStoreWrapper (Luau) - A robust solution for seamless data management with built-in error handling, session-locking and caching
 
 ## Tech Stack
 - Lua/Luau       **Fluent**
