@@ -5,7 +5,6 @@ I'm a passionate programmer who thrives on creating immersive experiences and el
 ## Current Projects
 - Linux Kernel Simulation (Luau) - A simulation of the Linux kernel components implemented using Luau. 
 - ATOMIC (Luau) - An ambitious open world RPG inspired by Deepwoken, featuring precise hitboxes and fluid animations
-- DataStoreWrapper (Luau) - A robust solution for seamless data management with built-in error handling, session-locking and caching
 
 ## Tech Stack
 - Lua/Luau [-] **Fluent**
