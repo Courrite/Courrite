@@ -8,12 +8,14 @@ I'm a passionate programmer who thrives on creating immersive experiences and el
 
 ## Tech Stack
 - Lua/Luau [-] **Fluent**
+- C# [-] **Intermediate**
 - JS/TypeScript [-] **Intermediate**
 - Python [-] **Little**
 - C [-] **Little**
 
 ## What I'm Learning Now
 Currently diving deeper into:
+- Advanced Maths
 - Advanced data structures
 - Game optimization techniques
 - Procedural generation algorithms
