@@ -1,13 +1,20 @@
-# Courrite
-Hello, I'm Courrite, a learning programmer that looks forward towards their goals.
-## Projects
--# can include unpublished
-- Luau Kernel Simulation (Roblox)
-- ATOMIC (Roblox, Deepwoken inspired)
-- DataStoreWrapper (Roblox)
+#👋 Hello, I'm Courrite
+-#Learning coder on a journey to mastery
+I'm a passionate programmer who thrives on creating immersive experiences and elegant solutions. Each project is a stepping stone toward my ultimate goal of building worlds through code.
 
-## Languages
-- A little C
-- Lua/Luau
-- Javascript/Typescript
-- a little Python
+## Current Projects
+Luau Kernel Simulation (Roblox) - A 
+ATOMIC (Roblox) - An ambitious open world RPG inspired by Deepwoken, featuring precise hitboxes and fluid animations
+DataStoreWrapper (Roblox) - A robust solution for seamless data management with built-in error handling, session-locking and caching
+
+## Tech Stack
+- Lua/Luau       **Fluent**
+- JS/TypeScript  **Intermediate**
+- Python         **Little**
+- C              **Little**
+
+## What I'm Learning Now
+Currently diving deeper into:
+- Advanced data structures
+- Game optimization techniques
+- Procedural generation algorithms
