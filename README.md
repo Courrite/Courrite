@@ -8,10 +8,10 @@ I'm a passionate programmer who thrives on creating immersive experiences and el
 - DataStoreWrapper (Luau) - A robust solution for seamless data management with built-in error handling, session-locking and caching
 
 ## Tech Stack
-- Lua/Luau       **Fluent**
-- JS/TypeScript  **Intermediate**
-- Python         **Little**
-- C              **Little**
+- Lua/Luau [-] **Fluent**
+- JS/TypeScript [-] **Intermediate**
+- Python [-] **Little**
+- C [-] **Little**
 
 ## What I'm Learning Now
 Currently diving deeper into:
