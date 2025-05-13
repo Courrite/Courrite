@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Courrite
-
--# Learning coder on a journey to mastery
+### Learning coder on a journey to mastery
 I'm a passionate programmer who thrives on creating immersive experiences and elegant solutions. Each project is a stepping stone toward my ultimate goal of building worlds through code.
 
 ## Current Projects
